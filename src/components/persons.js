@@ -3288,4 +3288,20 @@ export const persons = [
       country: "United States of America"
     }
   },
+  {
+    id: 247,
+    name: "Aniket Pathak",
+    img: "https://avatars3.githubusercontent.com/u/40513834?s=460&v=4",
+    links: {
+      website: "http://aniketpathak.me/",
+      linkedin: "https://www.linkedin.com/in/aniket-pathak/",
+      github: "https://github.com/mynameispathak"
+    },
+    jobTitle: "Web Developer",
+    location: {
+      city: "New Delhi",
+      state: "Delhi",
+      country: "India"
+    }
+  },
 ];
